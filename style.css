@@ -21,7 +21,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 html, body {
   font-family: sans-serif;
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 23px;
+    font-size: 20px;
 }
 img{width:100%;
 
